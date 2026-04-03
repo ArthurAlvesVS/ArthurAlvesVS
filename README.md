@@ -34,6 +34,6 @@ I combine technical skills with real business experience from running my own e-c
 ## GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArthurAlvesVS&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArthurAlvesVS&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ArthurAlvesVS&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAlvesVS&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
 </div>
