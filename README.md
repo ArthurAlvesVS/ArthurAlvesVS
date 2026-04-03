@@ -33,4 +33,6 @@ I combine technical skills with real business experience from running my own e-c
 
 ## GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=ArthurAlvesVS&theme=tokyonight&hide_border=true" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ArthurAlvesVS&theme=github-dark-blue&hide_border=true" />
+</div>
