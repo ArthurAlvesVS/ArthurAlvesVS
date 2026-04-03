@@ -32,6 +32,7 @@ I combine technical skills with real business experience from running my own e-c
 - Work with international teams  
 
 ## GitHub Stats
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurAlvesVS&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAlvesVS&layout=compact&theme=dark)
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurAlvesVS&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAlvesVS&layout=compact&theme=tokyonight&cache_seconds=1800)
