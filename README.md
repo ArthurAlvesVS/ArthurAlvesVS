@@ -34,5 +34,6 @@ I combine technical skills with real business experience from running my own e-c
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ArthurAlvesVS&theme=github-dark-blue&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ArthurAlvesVS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAlvesVS&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
