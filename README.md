@@ -9,10 +9,12 @@ I'm a Systems Analysis and Development student focused on backend engineering.
 I combine technical skills with real business experience from running my own e-commerce, applying a practical and data-driven mindset to solve real-world problems.
 
 ## Tech Stack
-- Python (FastAPI, Flask)
-- C (CS50 foundations)
-- SQL & Databases
-- Git & GitHub
+
+**Languages:** Python, C, JavaScript  
+**Markup & Styling:** HTML, CSS  
+**Frameworks:** Flask, FastAPI  
+**Databases:** SQL, SQLite  
+**Tools:** Git, GitHub, VS Code  
 
 ## Featured Projects
 - 💰 FluxaMoney  
