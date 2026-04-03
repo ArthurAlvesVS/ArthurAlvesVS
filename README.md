@@ -1,15 +1,20 @@
-# Hi, I'm Arthur 👋
+# Hi, I'm Arthur Alves 👋
 
-🚀 Systems Analysis and Development Student  
-💻 Backend Focus (Java | Python | C)  
+🚀 Software Engineer in training | Backend-focused  
+💻 Python | C  
 📍 São Paulo, Brazil  
 
+## About Me
+I'm a Systems Analysis and Development student with a strong focus on backend engineering.  
+I combine technical skills with real business experience from running my own e-commerce, bringing a practical and analytical approach to problem-solving.
+
 ## Current Focus
-- Data Structures
-- Backend Development
-- APIs
-- Clean Code
+- Data Structures & Algorithms  
+- Backend Development (APIs & Architecture)  
+- Databases & SQL  
+- Clean Code & Best Practices  
 
 ## Goals
-- Work internationally as a Software Engineer
-- Build scalable and impactful systems
+- Become a Software Engineer  
+- Build scalable, efficient, and impactful systems  
+- Work on international and high-performance teams  
