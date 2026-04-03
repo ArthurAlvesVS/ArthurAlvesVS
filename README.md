@@ -33,6 +33,4 @@ I combine technical skills with real business experience from running my own e-c
 
 ## GitHub Stats
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurAlvesVS&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAlvesVS&layout=compact&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=ArthurAlvesVS&theme=tokyonight)
