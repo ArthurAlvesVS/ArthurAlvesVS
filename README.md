@@ -37,9 +37,3 @@ I combine technical skills with real business experience from running my own e-c
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ArthurAlvesVS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAlvesVS&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ArthurAlvesVS&theme=tokyonight&hide_border=true" />
-</div>
