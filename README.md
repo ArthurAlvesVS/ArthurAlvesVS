@@ -230,19 +230,13 @@ This background allows me to understand both the technical and business sides of
 
 ---
 
-## 📊 GitHub Statistics
+## 📫 Let's Connect
 
-<div align="center">
+I'm open to internship opportunities in Backend Development and Software Engineering.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArthurAlvesVS&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Arthur Alves GitHub statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAlvesVS&layout=compact&theme=github_dark&hide_border=true" alt="Arthur Alves most used languages" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=ArthurAlvesVS&theme=github-dark-blue&hide_border=true" alt="Arthur Alves GitHub contribution streak" />
-
-</div>
+- 💼 LinkedIn: [Arthur Alves](https://www.linkedin.com/in/arthur-vasconcelos-609037200/)
+- 🌐 Portfolio: Coming soon
+- 📧 Email: [arthur.aalves14@hotmail.com](mailto:arthur.aalves14@hotmail.com)
 
 ---
 
