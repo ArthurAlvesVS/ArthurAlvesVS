@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Systems Analysis and Development student at UNINTER**, with an expected graduation date of **2028**.
+I'm a **Systems Analysis and Development student at UNINTER**, with an expected graduation date of **08/2028**.
 
 My main interest is **backend development**, especially building applications, APIs and systems that solve real-world problems.
 
