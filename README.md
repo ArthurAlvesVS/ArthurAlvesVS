@@ -1,6 +1,12 @@
 <div align="center">
 
-# Hi, I'm Arthur Alves 👋
+[🇺🇸 **English**](README.md)   •  
+[🇧🇷 Português](README.pt-BR.md)   •  
+[🇪🇸 Español](README.es.md)
+
+<br>
+
+# Hi, I'm Arthur 👋
 
 ### Backend-focused Developer in Training
 
@@ -14,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Systems Analysis and Development student at UNINTER**, with an expected graduation date of **08/2028**.
+I'm a **Systems Analysis and Development student at UNINTER**, with an expected graduation date of **August 2028**.
 
 My main interest is **backend development**, especially building applications, APIs and systems that solve real-world problems.
 
@@ -57,10 +63,11 @@ This experience helped me develop a practical, analytical and business-oriented 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="MySQL and SQLite" />
 </p>
 
 * SQL
+* MySQL
 * SQLite
 * SQLAlchemy
 * Data persistence
@@ -82,19 +89,21 @@ This experience helped me develop a practical, analytical and business-oriented 
 ### Tools and Development Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Git, GitHub, Visual Studio Code and IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux" alt="Git, GitHub, Visual Studio Code, IntelliJ IDEA and Linux" />
 </p>
 
 * Git
 * GitHub
 * Visual Studio Code
 * IntelliJ IDEA
+* Eclipse
 * Windows
+* Linux
 * macOS
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 💰 [FluxaMoney](https://github.com/ArthurAlvesVS/controle-financeiro)
 
@@ -120,31 +129,32 @@ The project combines backend development, database persistence, authentication, 
 
 ---
 
-## 🤖 Project in Development
+### 🤖 SmartSupport AI
 
-### Real Estate Assistant Bot
+An AI-powered support ticket analysis API designed to automate and assist with the initial triage of customer support requests.
 
-An intelligent assistant designed to help users search for properties based on their preferences.
+The project combines backend development with artificial intelligence integration, structured data processing, persistence and automated testing.
 
-The project explores backend development, conversational interfaces, filtering systems, databases and artificial intelligence integrations.
+**Main features:**
 
-**Technologies and concepts:**
+* Support ticket analysis
+* Automatic ticket categorization
+* Priority classification
+* Ticket summarization
+* AI-generated response suggestions
+* Structured API responses
+* Data persistence with SQLite
+* Automated tests
 
-* Python
-* FastAPI
-* Telegram Bot
-* SQLite and CSV data
-* Property filters
-* REST APIs
-* AI model integrations
-* Data processing
-* Error handling
+**Technologies:**
+
+`Python` `FastAPI` `Gemini API` `SQLite` `Pytest` `REST API`
 
 ---
 
 ## ☕ Java Learning
 
-I am currently developing my Java skills through practical exercises and Object-Oriented Programming.
+I am currently developing my Java skills through practical exercises, Object-Oriented Programming and problem-solving challenges.
 
 Topics already studied include:
 
@@ -208,13 +218,14 @@ This background allows me to understand both the technical and business sides of
 ## 📚 Currently Working On
 
 * Improving and documenting FluxaMoney
+* Developing and improving SmartSupport AI
 * Organizing my Java and beecrowd exercises
 * Strengthening Object-Oriented Programming concepts
 * Developing REST APIs with Python
 * Improving backend architecture knowledge
 * Building projects based on real business problems
 * Creating my personal portfolio
-* Preparing for backend development internship opportunities
+* Preparing for software development internship opportunities
 
 ---
 
@@ -232,11 +243,11 @@ This background allows me to understand both the technical and business sides of
 
 ## 📫 Let's Connect
 
-I'm open to internship opportunities in Backend Development and Software Engineering.
+I'm open to internship opportunities in **Backend Development** and **Software Engineering**.
 
-- 💼 LinkedIn: [Arthur Alves](https://www.linkedin.com/in/arthur-vasconcelos-609037200/)
-- 🌐 Portfolio: Coming soon
-- 📧 Email: [arthur.aalves14@hotmail.com](mailto:arthur.aalves14@hotmail.com)
+* 💼 LinkedIn: [Arthur Alves Vasconcelos](https://www.linkedin.com/in/arthur-alves-vasconcelos-609037200/)
+* 🌐 Portfolio: Coming soon
+* 📧 Email: [arthur.aalves14@hotmail.com](mailto:arthur.aalves14@hotmail.com)
 
 ---
 
@@ -245,5 +256,11 @@ I'm open to internship opportunities in Backend Development and Software Enginee
 ### Building my career one project and one commit at a time. 🚀
 
 Open to internship opportunities in **Backend Development** and **Software Engineering**.
+
+<br><br>
+
+[🇺🇸 **English**](README.md)   •  
+[🇧🇷 Português](README.pt-BR.md)   •  
+[🇪🇸 Español](README.es.md)
 
 </div>
